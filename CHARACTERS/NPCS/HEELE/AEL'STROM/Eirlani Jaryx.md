@@ -1,2 +1,0 @@
-[[Ael'Strom]]
-[[Gray Singers]]

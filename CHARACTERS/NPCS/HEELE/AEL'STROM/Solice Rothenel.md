@@ -1,1 +1,0 @@
-Leader of the [[Skyswords]], daughter of [[Adran Rothenel]]
