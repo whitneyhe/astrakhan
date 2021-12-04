@@ -4,6 +4,8 @@ This is still a major Work in Progress, but please feel free to explore! If you 
 
 ## Table of Contents
 
-[locations](/locations)
+[locations](locationsTOC.md)
+
 [characters](/characters)
+
 [lore](/lore)
