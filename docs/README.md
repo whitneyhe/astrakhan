@@ -4,6 +4,6 @@ This is still a major Work in Progress, but please feel free to explore! If you 
 
 ## Table of Contents
 
-[locations](/docs/locations/locationsTOC.md)  
-[characters](/docs/characters/charactersTOC.md)  
-[lore](/docs/lore/loreTOC.md)
+[locations](astrakhan/docs/locations/locationsTOC.md)  
+[characters](astrakhan/docs/characters/charactersTOC.md)  
+[lore](astrakhan/docs/lore/loreTOC.md)
